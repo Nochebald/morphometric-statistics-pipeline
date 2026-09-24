@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
+
+# Research data
+data/
+datasets/
+input/
+output/
+outputs/
+results/
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated reports
+*.pdf
